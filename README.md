@@ -1,10 +1,8 @@
 # MFC-EQ
 
-The code implementation for MFC-EQ: Mean Field Control with Envelope Q-learning for Moving Agents in Formation.
+The code implementation for MFC-EQ: Mean Field Control with Envelope Q-learning for Moving Decentralized Agents in Formation.
 
-<img src="https://raw.githubusercontent.com/Qiushi-Lin/MFCEQ/master/assets/model_design.png" alt="Model Design" width="740"/>
-
-<font size="5"> Coming soon ... </font>
+![til](https://raw.githubusercontent.com/Qiushi-Lin/MFCEQ/master/assets/demonstration.gif)
 
 ## Setup
 **Dependencies**
